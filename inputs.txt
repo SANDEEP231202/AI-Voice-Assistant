@@ -1,0 +1,34 @@
+API Secret Key = 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
+
+
+
+packages installed:
+openai
+speechrecognition
+pyaudio
+wikipedia
+pyttsx3 - for windows based speaker function
+selenium - for chrome based speaker function
+googletrans
+opencv-python
+pywhatkit
+secure-smtplib
+
+
+
+links:
+youtube
+google
+chatgtp
+wikipedia
+
+apps:
+osu!
+notepad
+
+
+functions:
+command prompt
+camera
+music
+ip address
